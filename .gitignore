@@ -1,0 +1,7 @@
+# pre-rebuild copy of the site
+_backup-*/
+_preview/
+# editor settings
+.vscode/
+.DS_Store
+Thumbs.db
